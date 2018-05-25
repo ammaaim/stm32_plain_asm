@@ -7,11 +7,11 @@ There is simple make and ld files for fast and soft start
 
 In this example I use *blue pill* stm32 board & *ST-LINK V2* programmer
 
+### Software installation
+
 For running this example you need:
 * arm-none-eabi-gcc
 * stlink
-
-### Software installation
 
 #### MacOS
 ```
