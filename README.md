@@ -2,7 +2,10 @@
 
 ### About
 
-In this example I use "blue pill" stm32 board & ST-LINK V2 programmer
+Simplest stm32 asm example. Only asm, only hardcore!
+There is simple make and ld files for fast and soft start
+
+In this example I use *blue pill* stm32 board & *ST-LINK V2* programmer
 
 For running this example you need:
 * arm-none-eabi-gcc
